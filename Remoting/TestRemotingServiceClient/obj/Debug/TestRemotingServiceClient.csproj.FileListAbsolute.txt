@@ -1,0 +1,11 @@
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\bin\Debug\TestRemotingServiceClient.exe.config
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\bin\Debug\TestRemotingServiceClient.exe
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\bin\Debug\TestRemotingServiceClient.pdb
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\bin\Debug\ITestRemotingService.dll
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\bin\Debug\ITestRemotingService.pdb
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\obj\Debug\TestRemotingServiceClient.csprojResolveAssemblyReference.cache
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\obj\Debug\TestRemotingServiceClient.Form1.resources
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\obj\Debug\TestRemotingServiceClient.Properties.Resources.resources
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\obj\Debug\TestRemotingServiceClient.csproj.GenerateResource.Cache
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\obj\Debug\TestRemotingServiceClient.exe
+F:\IntPrep\WCFPractice\Remoting\TestRemotingServiceClient\obj\Debug\TestRemotingServiceClient.pdb

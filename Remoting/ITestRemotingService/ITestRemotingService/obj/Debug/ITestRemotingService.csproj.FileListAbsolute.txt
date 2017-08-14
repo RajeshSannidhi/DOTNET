@@ -1,0 +1,4 @@
+F:\IntPrep\WCFPractice\Remoting\ITestRemotingService\ITestRemotingService\bin\Debug\ITestRemotingService.dll
+F:\IntPrep\WCFPractice\Remoting\ITestRemotingService\ITestRemotingService\bin\Debug\ITestRemotingService.pdb
+F:\IntPrep\WCFPractice\Remoting\ITestRemotingService\ITestRemotingService\obj\Debug\ITestRemotingService.dll
+F:\IntPrep\WCFPractice\Remoting\ITestRemotingService\ITestRemotingService\obj\Debug\ITestRemotingService.pdb

@@ -1,0 +1,10 @@
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe.config
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\ITestRemotingService.dll
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\TestRemotingService.dll
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\ITestRemotingService.pdb
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\bin\Debug\TestRemotingService.pdb
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojResolveAssemblyReference.cache
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+F:\IntPrep\WCFPractice\Remoting\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb
